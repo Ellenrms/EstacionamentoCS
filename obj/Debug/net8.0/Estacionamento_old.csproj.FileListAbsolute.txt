@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\bin\Debug\net8.0\Estacionamento_old.exe
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\bin\Debug\net8.0\Estacionamento_old.deps.json
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\bin\Debug\net8.0\Estacionamento_old.runtimeconfig.json
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\bin\Debug\net8.0\Estacionamento_old.dll
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\bin\Debug\net8.0\Estacionamento_old.pdb
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.AssemblyInfo.cs
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.sourcelink.json
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.dll
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\refint\Estacionamento_old.dll
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.pdb
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\Estacionamento_old.genruntimeconfig.cache
+C:\Users\User\Desktop\ADS\workspace\EstacionamentoCS\obj\Debug\net8.0\ref\Estacionamento_old.dll
